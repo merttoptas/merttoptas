@@ -2,9 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=merttoptas.visitor-badge)
 
-
-**merttoptas/merttoptas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android programing.
