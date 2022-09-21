@@ -2,8 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=merttoptas.visitor-badge)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Android programing.
 - 🌱 I’m currently learning Swift also Flutter.
 - 👯 I’m looking to collaborate on bilirkisi team.
