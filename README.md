@@ -8,7 +8,7 @@
 - 💬 Ask me about Kotlin, Android, Jetpack Compose and self learning.
 
 ## My Github Stats:
-![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=merttoptas&show_icons=true&theme=tokyonight)
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=merttoptas&show_icons=true&theme=tokyonight) 
 
 ## My Top Langs:
 
